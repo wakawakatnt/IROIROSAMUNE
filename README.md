@@ -1,12 +1,12 @@
 対応してる奴<br>
-i.imgur.com(mp4とかgifのみ　それ以外はおんJのシステムを利用)
-ul.h3z.jp
-tadaup.jp
-i.ibb.co
-i.postimg.cc
-iili.io
-freeimage.host
-funakamome.com
+i.imgur.com(mp4とかgifのみ　それ以外はおんJのシステムを利用)<br>
+ul.h3z.jp<br>
+tadaup.jp<br>
+i.ibb.co<br>
+i.postimg.cc<br>
+iili.io<br>
+freeimage.host<br>
+funakamome.com<br>
 
 画像をクリックしたらアップして表示されるで　UIもおんJとほぼ一緒や
 
