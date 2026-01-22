@@ -2,7 +2,6 @@
 // @name         色々サムネイル表示
 // @namespace    ワイ
 // @version      5.1.0.0
-// @license	CC0-1.0
 // @description  各種画像サイトのリンクをLightboxで表示。
 // @match        https://*.open2ch.net/*
 // @grant        GM_xmlhttpRequest
@@ -10,8 +9,6 @@
 // @grant        GM_getValue
 // @grant        GM_deleteValue
 // @grant        GM_listValues
-// @downloadURL https://update.greasyfork.org/scripts/563586/%E8%89%B2%E3%80%85%E3%82%B5%E3%83%A0%E3%83%8D%E3%82%A4%E3%83%AB%E8%A1%A8%E7%A4%BA.user.js
-// @updateURL https://update.greasyfork.org/scripts/563586/%E8%89%B2%E3%80%85%E3%82%B5%E3%83%A0%E3%83%8D%E3%82%A4%E3%83%AB%E8%A1%A8%E7%A4%BA.meta.js
 // ==/UserScript==
 
 (function () {
